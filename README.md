@@ -13,6 +13,9 @@ Simple demo to show how to create a write through cache with redis and psql
 └── wait-for-it.sh              # Script to wait for services to be available
 ```
 
+##### Setup venv
+
+
 ##### Clone this repo
 ```
 git clone git@github.com:iblaine/demo-write-through-caches.git
